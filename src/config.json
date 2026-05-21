@@ -1,0 +1,109 @@
+{
+  "replacements": [
+    {
+      "cyrillic": "а",
+      "ascii": "a",
+      "description": "Cyrillic Small Letter A (U+0430)"
+    },
+    {
+      "cyrillic": "е",
+      "ascii": "e",
+      "description": "Cyrillic Small Letter Ie (U+0435)"
+    },
+    {
+      "cyrillic": "к",
+      "ascii": "k",
+      "description": "Cyrillic Small Letter Ka (U+043A)"
+    },
+    {
+      "cyrillic": "м",
+      "ascii": "m",
+      "description": "Cyrillic Small Letter Em (U+043C)"
+    },
+    {
+      "cyrillic": "о",
+      "ascii": "o",
+      "description": "Cyrillic Small Letter O (U+043E)"
+    },
+    {
+      "cyrillic": "р",
+      "ascii": "p",
+      "description": "Cyrillic Small Letter Er (U+0440)"
+    },
+    {
+      "cyrillic": "с",
+      "ascii": "c",
+      "description": "Cyrillic Small Letter Es (U+0441)"
+    },
+    {
+      "cyrillic": "у",
+      "ascii": "y",
+      "description": "Cyrillic Small Letter U (U+0443)"
+    },
+    {
+      "cyrillic": "х",
+      "ascii": "x",
+      "description": "Cyrillic Small Letter Ha (U+0445)"
+    },
+    {
+      "cyrillic": "А",
+      "ascii": "A",
+      "description": "Cyrillic Capital Letter A (U+0410)"
+    },
+    {
+      "cyrillic": "В",
+      "ascii": "B",
+      "description": "Cyrillic Capital Letter Ve (U+0412)"
+    },
+    {
+      "cyrillic": "Е",
+      "ascii": "E",
+      "description": "Cyrillic Capital Letter Ie (U+0415)"
+    },
+    {
+      "cyrillic": "К",
+      "ascii": "K",
+      "description": "Cyrillic Capital Letter Ka (U+041A)"
+    },
+    {
+      "cyrillic": "М",
+      "ascii": "M",
+      "description": "Cyrillic Capital Letter Em (U+041C)"
+    },
+    {
+      "cyrillic": "Н",
+      "ascii": "H",
+      "description": "Cyrillic Capital Letter En (U+041D)"
+    },
+    {
+      "cyrillic": "О",
+      "ascii": "O",
+      "description": "Cyrillic Capital Letter O (U+041E)"
+    },
+    {
+      "cyrillic": "Р",
+      "ascii": "P",
+      "description": "Cyrillic Capital Letter Er (U+0420)"
+    },
+    {
+      "cyrillic": "С",
+      "ascii": "C",
+      "description": "Cyrillic Capital Letter Es (U+0421)"
+    },
+    {
+      "cyrillic": "Т",
+      "ascii": "T",
+      "description": "Cyrillic Capital Letter Te (U+0422)"
+    },
+    {
+      "cyrillic": "У",
+      "ascii": "Y",
+      "description": "Cyrillic Capital Letter U (U+0423)"
+    },
+    {
+      "cyrillic": "Х",
+      "ascii": "X",
+      "description": "Cyrillic Capital Letter Ha (U+0425)"
+    }
+  ]
+}
