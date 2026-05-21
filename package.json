@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-cyrillic-homoglyphs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint plugin to replace cyrillic characters with their visual ASCII equivalents",
   "author": "Alexander Myadzel",
   "license": "MIT",
